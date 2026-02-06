@@ -7,7 +7,7 @@ We would clone a repository only to realize that we were missing crucial branche
 git clone <repo-url>
 cd <repo>
 git branch -a 
-git checkout <name-branch>
+git checkout -b <name-branch>
 git pull origin <name-branch>
 ```
 text
