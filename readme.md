@@ -9,7 +9,7 @@ cd <repo>
 git branch -a 
 git checkout <name-branch>
 git pull origin <name-branch>
-
+```
 text
 This process was not only time-consuming but also prone to errors. Branches were often missed, leading to confusion and wasted time. The worst part? Everyone on the team was experiencing the same problem, but we all just accepted it as "that's how Git works."
 
